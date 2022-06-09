@@ -1,7 +1,10 @@
 # Prerequisite
 
-pip install screed
+Install the screed package for Python.
 
+```console
+pip install screed
+```
 
 
 # Run
