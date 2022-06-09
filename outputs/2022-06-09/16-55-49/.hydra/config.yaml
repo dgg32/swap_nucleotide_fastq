@@ -1,0 +1,3 @@
+original: ATCG
+new: TAGC
+infile: /home/huangsixing/Documents/swap_nucleotide_fastq/test.fq

@@ -1,0 +1,6 @@
+original:
+  ATCG
+new:
+  TAGC
+infile:
+  ./test.fq
