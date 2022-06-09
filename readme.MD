@@ -1,3 +1,7 @@
+# Introduction
+
+This program swaps the bases in your fq. You need to supply the mapping relation for ATCG.
+
 # Prerequisite
 
 Install the screed package for Python.
